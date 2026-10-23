@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sk Humayun Islam 👋
 
-<!--
-**humayunislam2005/humayunislam2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology student at Haldia Institute of Technology (2028 batch).
 
-Here are some ideas to get you started:
+💻 Aspiring Java Backend Developer focused on building reliable backend applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Learning Java backend development
+- Practicing SQL and database fundamentals
+- Working with JDBC
+- Currently learning Spring Boot
+
+## 🛠️ Tech Stack
+- **Language:** Java
+- **Database:** SQL / MySQL
+- **Database Connectivity:** JDBC
+- **Currently Learning:** Spring Boot
+- **Tools:** Git, GitHub, VS Code
+
+## 🎯 Goals
+- Build practical Java backend projects
+- Improve problem-solving and coding skills
+- Prepare for software development internships
+
+## 🤝 Connect With Me
+- GitHub: https://github.com/humayunislam2005
+
+---
+⭐ Thanks for visiting my profile!
