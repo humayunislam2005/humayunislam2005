@@ -16,6 +16,16 @@
 - **Database Connectivity:** JDBC
 - **Currently Learning:** Spring Boot
 - **Tools:** Git, GitHub, VS Code
+## 💻 Projects
+
+### JavaScript Practice
+- [javascript.js Repository](https://github.com/humayunislam2005/javascript.js)
+- JavaScript learning and practice.
+
+### Java Backend Projects
+- Building skills in Java, SQL, and JDBC.
+- Backend projects coming soon!
+
 
 ## 🎯 Goals
 - Build practical Java backend projects
