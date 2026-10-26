@@ -15,7 +15,7 @@ I'm focused on learning Java backend development, strengthening my programming f
 - 💻 Practicing Data Structures and Algorithms.
 - 🎯 Preparing for Java Developer internships and software engineering placements.
 
-🧰 Tech Stack
+
 ## 🛠️ Tech Stack
 
 <p align="left">
