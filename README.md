@@ -16,9 +16,13 @@
 
 ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js)
 
-**Database & Backend**
+**Database**
 
-![MySQL](https://skillicons.dev/icons?i=mysql) ![Spring](https://skillicons.dev/icons?i=spring) ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+**Backend**
+
+![Spring Boot](https://skillicons.dev/icons?i=spring) ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
 
 **Tools**
 
