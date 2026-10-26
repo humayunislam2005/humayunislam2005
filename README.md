@@ -15,32 +15,24 @@ I'm focused on learning Java backend development, strengthening my programming f
 - 💻 Practicing Data Structures and Algorithms.
 - 🎯 Preparing for Java Developer internships and software engineering placements.
 
+## 💻 Skills & Technologies
 
-## 🛠️ Tech Stack
+### Languages
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,mysql" />
-</p>
-Languages
+### Database
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-- Java
-- JavaScript
+### Backend
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://skillicons.dev/icons?i=spring)
 
-Database
+### Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
-- MySQL
-- SQL
-
-Backend
-
-- JDBC
-- Spring Boot (Currently Learning)
-
-Tools
-
-- Git
-- GitHub
-- VS Code
 
 📂 Repositories
 
